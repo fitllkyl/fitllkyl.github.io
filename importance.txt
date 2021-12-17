@@ -1,0 +1,25 @@
+<!DOCTYPE>
+<html>
+<head>
+  <link rel="stylesheet" href="styles2.css">
+</head>
+<body>
+<h1>IMPORTANCE OF FITNESS</h1>
+<hr>
+ <blockquote>"Health is wealth"</blockquote> 
+<p1> A person is in real terms considered to be healthy if he/she is mentally and physically fit. This is not only good for your body but also helps you gain more confidence, face all situations promptly, and make you feel happier on the inside. Imagine a person who is ill, weak, and always complains about having a bad health, visiting doctors every now and then. Such a person can never live a happy life and will be rejected by the society. 
+That person is most likely to have problems with social relations, which could be in the form of conflicts with his colleagues at work, not having a good relationship with family and friends. This person will eventually get stressed and face mental health issues. 
+There is a connection between the mind and body. If your mind is not stable i.e., it is stressed it affects your physical health, if you are physically unfit then like it was mentioned earlier your mental health will be affected in the form of bad social relationships.
+People over the years and even today have a misconception when they are asked about what it means to be fit. They think of it as having a good, toned body. But very rare like a 1 in a 100 say that it’s also about being mentally fit.
+   <b>NOW THE QUESTION THAT ARISES IS THAT HOW DOES ONE BE FIT??????</b>
+Well that’s something you will see soon…..
+</p1>
+<br>
+<p2> BMI (Body Mass Index) is one of the most easiest things for you to understand about your bodyweight. It is the ratio of your weight and height which will tell you if you are overweight,underweight or perfect</p2>
+<br>
+<a href="https://en.wikipedia.org/wiki/Body_mass_index"" target="_blank">TO KNOW MORE ABOUT BMI CLICK HERE</a> 
+<li><a href=de.html> Click here to go to next page</a></li>
+<li><a href=about.html>Click here for previous page</a></li>
+
+</body>
+</html>

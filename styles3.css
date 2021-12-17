@@ -1,0 +1,76 @@
+
+body
+{
+     background-image:url("diet.jpg");
+    
+
+}
+
+h1
+{
+  color: white;
+text-align :center;
+font-family : Brush Script MT ,  Lucida Handwriting ;
+font-size: 50px;
+}
+h2
+{
+color:yellow;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+p1
+{
+color: aliceblue;
+font-family : "Times New Roman", Times, serif;
+font-size: 30px;
+}
+
+.diet
+{
+   float: right;
+ width: 200px;
+ font-size: 100%;
+ font-style: italic;
+ font-family: Georgia, Times, 
+serif;
+ margin: 10px 10px 10px 10px;
+ padding: 10px;
+ border-top: 3px dotted lavender;
+ border-bottom: 3px dotted lavender;
+border-left : 3px dotted lavender;
+border-right: 3px dotted lavender;
+color:lavender;
+background-color: black;
+}
+
+.exercise
+{
+float:right;
+width: 200px;
+ font-size: 100%;
+ font-style: italic;
+ font-family: Georgia, Times, 
+serif;
+ margin: 10px 10px 10px 10px;
+ padding: 10px;
+ border-top: 3px dotted black;
+ border-bottom: 3px dotted black;
+border-left : 3px dotted black;
+border-right: 3px dotted black;
+color:black;
+background-color: lavender;
+}
+
+a:visited
+{
+color: white;
+
+}
+a:hover
+{
+color : red;
+}
+
+

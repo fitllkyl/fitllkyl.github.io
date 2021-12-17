@@ -1,0 +1,41 @@
+body
+{
+
+background-color : coral;
+
+}
+
+h1
+{
+font-size: 70px;
+color: black;
+text-align:center;
+font-family: Brush Script MT ,  Lucida Handwriting ;
+
+}
+
+p1
+{
+font-family : "Times New Roman", Times, serif;
+color :darkolivegreen;
+font-size:30px;
+}
+.para
+{
+margin: 30px 30px 30px 30px;
+ padding: 20px;
+ border-top: 3px double black;
+ border-bottom: 3px double black;
+border-left : 3px double black;
+border-right: 3px double black;
+}
+
+
+a:visited
+{
+color:black;
+}
+a:hover
+{
+color : white;
+}

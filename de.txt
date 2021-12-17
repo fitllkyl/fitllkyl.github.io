@@ -1,0 +1,45 @@
+<!DOCTYPE>
+<html>
+
+<head>
+  <link rel="stylesheet" href="styles3.css">
+</head>
+<body>
+<h1> DIET AND EXERCISE </h2>
+<h2> The monopoly behind FITNESS</h2>
+<p1>Diet and Exercise are one of the most supreme conditions for healthy, fit life. This will not only help with weight loss or weight gain but also will help you living a healthy life-style, and dealing with food and sleep disorders. When poor diet and exercise routines are followed it leads to Obesity. This is mainly due to the fact that the amount of energy that gets in our body in the form of food does not effectively come out of our body which is primarily due to poor physical activity. The intake of food in this case is mainly high in saturated fats, salts and sugar. It has been noticed that the levels of obesity among children are higher. A lot of men and women face a lot of chronic health problems due to a poor diet. Having a balanced diet and a good physical activity is therefore the cure for this. A balanced diet as most of us do know contains equal amounts of all the nutrients in our diet. There have been a lot of new diet plans such as Keto, Intermittent fasting, Calorie-deficit diet etc. These diet plans are very effective but unfortunately are only good to follow short-term. In a long run you are most likely to become weak and dull. Similarly when it comes to exercising it is absolutely dependent on YOU and YOUR BODY. Do not force yourself into something that is totally short-termed and beyond your ability. 
+</p1>
+
+<div class="diet">
+ <b>DIET TIPS</b><br>
+<ol>
+<li>Avoid binge eating</li>
+<li>Include a lot of green-leafy vegetables
+      in your diet</li>
+<li>Avoid alcohol and smoking<b>STRICTLY</b></li>
+<li>Choose brown rice over white
+ but do not ignore rice</li>
+<li>Avoid white sugar, processed foods</li>
+<li>Start you day with a glass of lukewarm
+    water and five almonds</li>
+</ol>
+</div>
+<div class="exercise">
+<b>EXERCISE TIPS</b><br>
+<ol>
+<li>Take a brisk walk for 30 mins daily</li>
+<li>Wake up early in the morning
+and try doing YOGA for an hour</li>
+<li>Play your favourite sport atleast
+twice a week.</li>
+<li>Try going out to parks and
+playgrounds everyday to keep the physical
+activity going</li>
+</ol>
+</div>
+<li><a href=covid.html>Click here to go to the next page</a></li>
+<li><a href=importance.html>Click here for previous page</a></li>
+
+
+</body>
+</html>

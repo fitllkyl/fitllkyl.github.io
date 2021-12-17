@@ -1,0 +1,61 @@
+body {
+  background-color : #b27f87;
+
+}
+h1
+  {
+ color: #66484d;
+text-align :center;
+font-family : Brush Script MT ,  Lucida Handwriting ;
+font-size: 70px;
+border: 2px solid white;
+  outline: #332426 solid 10px;
+  margin: auto;  
+  padding: 20px;
+
+}
+ li {
+  display : inline-block;
+padding : 1em; 
+font-size: 30px;
+ 
+margin-right : 100px;
+ 
+}
+blockquote {
+ float: right;
+ width: 275px;
+ font-size: 130%;
+ font-style: italic;
+ font-family: Georgia, Times, 
+serif;
+ margin: 20px 20px 20px 20px;
+ padding: 20px;
+ border-top: 5px double #332426;
+ border-bottom: 5px double #332426;
+border-left: 5px double #332426;
+border-right:5px double #332426;
+color: #66484d;
+}
+
+h2
+{
+color: #66484d;
+}
+a:link , a:active
+{
+color:white;
+text-decoration:none;
+}
+a:visited
+{
+color:black;
+}
+a:hover
+{
+color:white;
+}
+
+
+
+

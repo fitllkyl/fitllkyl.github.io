@@ -1,0 +1,26 @@
+<!DOCTYPE>
+<html>
+<head>
+  <link rel="stylesheet" href="styles1.css">
+</head>
+<body>
+<header>
+<h1> ABOUT </h1>
+</header>
+<div class="abt">
+<p1>This is a fitness blog called <b> FITHUB</b> where <b>FITNESS </b> is of utmost priority. Here we will talk what fitness actually is, its importance , how diet plays an important role in Fitness and how COVID-19 has had a huge impact on everyone.When it comes to Fitness it's not just about physical but also <em>mental which involves depression, taking too much stress</em>. Only if your mind is stable then only your body achieves what it wants. FITNESS is like a perspective that differs from person to pesron. In this blog, FITNESS is portrayed through my perspective. My only conclusion is that <strong>FITNESS IS NOT ABOUT HAVING A PERFECT BODY</strong> it's all about just having a healthy life and body. 
+</p1>
+<br>
+<p3><b> Let's go From <s> FAT </s> to <ins> FIT </ins></b></p3>
+</div>
+<footer >
+<p2><b>EAT  | SLEEP | EXERCISE  | REPEAT &#9193 </b></p2>
+</footer>
+
+<li><a href=importance.html>Click here to go to next page</a></li>
+<li><a href=index.html>Click here to go back</a></li>
+
+
+
+</body>
+</html>
